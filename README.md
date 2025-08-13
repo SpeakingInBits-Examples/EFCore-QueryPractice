@@ -11,7 +11,7 @@ first migrations are used to create the database and seed it with data.
   the script to create the database and seed it with data
 - Verify the database is created by checking the `AccountsPayableData` database
   in SQL Server Object Explorer. Right-click the Invoices table and choose `View Data` to
-- ensure data is present.
+  ensure data is present.
 
 ## Query Practice
 Using the newly created AccountsPayableData database, practice writing EF Core
