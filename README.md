@@ -2,6 +2,9 @@
 This app uses an Accounts Payable database to practice EF Core queries. Code
 first migrations are used to create the database and seed it with data.
 
+## Prerequisites
+- Visual Studio 2022 with .NET 9
+
 ## Getting Started
 - Click the "Use this template" button to create a new repository in your own account
 - Clone your copy of the repository to your local machine
